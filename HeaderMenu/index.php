@@ -1,6 +1,6 @@
 
 <?php
-    include "./assets/includes/doctype.php";
+    include "../assets/includes/doctype.php";
 ?>
 <head>
 <title>Pagina Principal</title>
@@ -8,6 +8,6 @@
 </head>
 <body>
 <?php
-include "./assets/includes/navigationMenu.php";
+include "../assets/includes/navigationMenu.php";
 ?>
 </body>

@@ -1,7 +1,7 @@
 <?php
 include "../assets/includes/doctype.php";
 ?>
- sa
+
 <title> Formulario de cadastro </title>
 <link rel="stylesheet" href="../assets/style/stylecadastro.css">
 
@@ -22,6 +22,7 @@ include "../assets/includes/navigationMenu.php";
         <label for="inputPassword4" class="form-label">Password</label>
         <input type="password" class="form-control" id="inputPassword4">
     </div>
+
     <div class="col-12">
         <label for="inputAddress" class="form-label">Address</label>
         <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
